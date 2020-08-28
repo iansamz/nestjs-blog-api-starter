@@ -2,7 +2,7 @@
  </p>
 
 ## Description
-A Simple CRUD Web API with NestJs, Postgres, Sequelize ORM. 
+A Simple CRUD Web API with NestJs, Postgres/Mysql, Sequelize ORM. 
 
 ## Installation
 
